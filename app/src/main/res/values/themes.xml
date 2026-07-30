@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.VoiceAssistant" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#00FF88</item>
+        <item name="colorPrimaryDark">#00CC6A</item>
+        <item name="android:windowBackground">#1E1E1E</item>
+    </style>
+</resources>
